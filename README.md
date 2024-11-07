@@ -12,7 +12,7 @@
 
 ---
 
-I am a Data Scientist/ML engineer.
+I am a Data Scientist/ML engineer enthusiast.
 - :telescope: My interests mainly lies in Machine Learning and NLP. I am currently learning about Cloud AWS services.
 
 - :seedling: Exploring Deep Learning.
