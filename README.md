@@ -1,7 +1,18 @@
+
+<h1 align="center">ZIAUL HODA</h1>
+
+<h3 align="center">Fullstack developer who loves building from scratch taking ideas from not only 0-1 but also 1-100!</h3>
+
+<p align="center">
+  <a href="https://x.com/zia2402" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/ziaul-hoda-30248a319/" target="_blank">linkedin</a> •
+  <a href="https://github.com/Hodazia" target="_blank">github</a> •
+  <a href="mailto:zia23hoda@gmail.com" target="_blank">email</a>
+</p>
+
+---
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Hey there </br> I'm ZIAUL, Fullstack developer, interested in building full stack web apps, currently exploring DEVOPS and AI. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -25,7 +36,18 @@
   
 </p>
 
-<h3>My latest posts</h3>
+#### 🔷 my latest projects
+
+- **[Scribble](https://github.com/Hodazia/Scribble)** —Scribble is a real-time collaborative whiteboard app where multiple users can draw, sketch, and chat together instantly built from scratch using Nextjs, React, Node.js, WebSockets, and Canvas API.
+
+- **[Clickydrp](https://github.com/Hodazia/Clickydrp)** — it is a web app where u can add all ur social links and share it with other users so they can access u, follow u,
+
+- **[CardVault](https://github.com/Hodazia/CardVault)** — CardVault is a dynamic web application designed to help you organize  and manage your digital life.
+  
+- **[ZenChat](https://github.com/Hodazia/Paytm-payment)** — This project is a simplified clone of a digital payment application like Paytm, allowing users to manage virtual money, search for other users, and perform instant money transfers securely.
+  
+
+<h3>My latest blog posts</h3>
 <ul>
   <li><a href="https://medium.com/@zia23hoda/dockerizing-nodejs-app-and-pushing-to-ec2-instance-2-02458404a1c5"><b> Dockerizing Nodejs app and pushing to EC2 instance-2 </b></a><br/><i>Running Node.js microservices securely behind HTTPS!.</i></li>
     <li><a href="https://medium.com/@zia23hoda/dockerizing-nodejs-app-and-pushing-to-ec2-instance-1-cb95069a9640"><b> Dockerizing Nodejs app and pushing to EC2 instance-1 </b></a><br/><i>How to dockerize a node js application!.</i></li>
